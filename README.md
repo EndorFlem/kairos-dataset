@@ -37,6 +37,7 @@ combines them, and class weights are tuned for macro-F1.
 | Our solution | **0.6683** | **0.6134** | **0.7070** |
 
 - [`lab1_solution.ipynb`](lab1_solution.ipynb): method, EDA, ablation, results.
+- [`Lab1Report.docx`](Lab1Report.docx): short report: what was done, approaches tried, results.
 - [`lab1_submission/`](lab1_submission/README.md): predictions, test metrics, selected model version.
 - `improved.py`: entry point for `prepare`, `train` and `predict`.
 - [`solution/`](solution/README.md): feature code, model code and the fixed configuration.
